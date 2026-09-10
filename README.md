@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  M.Sc. Engg. in ICT at BUET · CSE Graduate · Former Lecturer · 3x ICPC Asia Dhaka Regionalist
+  M.Sc. Engg. in ICT at BUET • CSE Graduate • Former Lecturer • 3x ICPC Asia Dhaka Regionalist
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ My interests connect software engineering, competitive programming, machine lear
 A modern Codeforces practice ladder builder that compares a user's solved problems with an expert Codeforces handle and recommends unsolved rated problems for targeted practice.
 
 - Live Demo: https://cf-practice-ladder.vercel.app
-- Repository: https://github.com/almuzahid16/cf-practice-ladder
+- Repository: https://github.com/almuzahidseyam/cf-practice-ladder
 - Tech Stack: Next.js, React, CSS, Codeforces Public API, Vercel
 
 ---
@@ -126,15 +126,27 @@ Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Cl
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=almuzahid16&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=almuzahid16&theme=github-dark-blue&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg">
+    <img alt="almuzahidseyam's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuzahid16&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=almuzahidseyam&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=almuzahidseyam&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuzahidseyam&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almuzahidseyam&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -158,7 +170,7 @@ Jan 2019 – Dec 2024
 ## Connect With Me
 
 <p>
-  <a href="https://github.com/almuzahid16">
+  <a href="https://github.com/almuzahidseyam">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/almuzahid/">
@@ -173,6 +185,10 @@ Jan 2019 – Dec 2024
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=almuzahidseyam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <i>Building, learning, solving, and improving one step at a time.</i>
