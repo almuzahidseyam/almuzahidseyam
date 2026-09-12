@@ -92,19 +92,19 @@ Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Cl
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,dart" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php,dart" />
 </p>
 
 ### Web and App Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flutter,html,css" />
 </p>
 
 ### Databases and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,latex,vscode" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,git,github,docker,latex,vscode" />
 </p>
 
 ### Core Areas
@@ -139,6 +139,10 @@ Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Cl
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=almuzahidseyam&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg">
@@ -147,16 +151,16 @@ Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Cl
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=almuzahidseyam&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=almuzahidseyam&theme=github-dark-blue&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=almuzahidseyam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=almuzahidseyam&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuzahidseyam&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuzahidseyam&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almuzahidseyam&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almuzahidseyam&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
