@@ -47,15 +47,25 @@ My interests connect software engineering, competitive programming, machine lear
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### CF Practice Ladder Builder
+### 🚀 Brainsoft-OJ
+A remarkable, local-first Online Judge platform for competitive programming and algorithm practice.
+- **Repository:** https://github.com/almuzahidseyam/Brainsoft-OJ
+- **Tech Stack:** React, Node.js, SQLite, C++ STL, Python, Java 21, Custom Judge Engine
+- **Features:** Real-time sandboxed code execution, Monaco in-browser editor, SQLite zero-config database.
 
+### 🤖 Local Personal AI Workstation
+An enterprise-grade, privacy-first local AI ecosystem built around Ollama and HuggingFace.
+- **Repository:** https://github.com/almuzahidseyam/Local-Personal-AI-Workstation
+- **Tech Stack:** Python, Jupyter, Ollama, HuggingFace, LLaMA 3, Gemma 2
+- **Features:** Offline multi-modal inference, retrieval-augmented generation (RAG) architecture.
+
+### 🎯 CF Practice Ladder Builder
 A modern Codeforces practice ladder builder that compares a user's solved problems with an expert Codeforces handle and recommends unsolved rated problems for targeted practice.
-
-- Live Demo: https://cf-practice-ladder.vercel.app
-- Repository: https://github.com/almuzahidseyam/cf-practice-ladder
-- Tech Stack: Next.js, React, CSS, Codeforces Public API, Vercel
+- **Live Demo:** https://cf-practice-ladder.vercel.app
+- **Repository:** https://github.com/almuzahidseyam/cf-practice-ladder
+- **Tech Stack:** Next.js, React, CSS, Codeforces Public API, Vercel
 
 ---
 
