@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoZHA4czd1dWV0enh4dDE5MXdhZ3dvNmxieW05ZXdmODRsMWlqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Matrix Coding" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoZHA4czd1dWV0enh4dDE5MXdhZ3dvNmxieW05ZXdmODRsMWlqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Matrix Coding" width="100%" height="150" />
 </p>
 
 <p align="center">
@@ -15,42 +15,10 @@
   </a>
 </p>
 
-<table align="center">
-  <tbody>
-    <tr>
-      <td style="text-align: center;">
-        <a href="https://github.com/almuzahidseyam" title="GitHub" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" title="GitHub">
-        </a>
-      </td>
-      <td style="text-align: center;">
-        <a href="https://www.linkedin.com/in/almuzahid/" title="LinkedIn" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn">
-        </a>
-      </td>
-      <td style="text-align: center;">
-        <a href="mailto:almuzahid16@gmail.com" title="Email" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email" title="Email">
-        </a>
-      </td>
-      <td style="text-align: center;">
-        <a href="https://www.facebook.com/muhammadalmuzahid/" title="Facebook" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" title="Facebook">
-        </a>
-      </td>
-      <td style="text-align: center;">
-        <a href="https://codeforces.com/profile/brainsoft" title="Codeforces" target="_blank">
-          <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces" title="Codeforces">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ---
 
 ## 👨‍💻 About Me
-<p><img width="28%" align="right" alt="Cherry Blossom Spinner" src="https://openclipart.org/download/231263/cherry-blossom-spinner.svg"/></p>
+<p><img width="28%" align="right" alt="Cherry Blossom Spinner" src="./assets/flower-spinner.svg"/></p>
 
 I am a Computer Science graduate from Patuakhali Science and Technology University and currently pursuing M.Sc. Engg. in Information and Communication Technology at Bangladesh University of Engineering and Technology.
 
