@@ -205,9 +205,7 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=almuzahidseyam&bg_color=ffffff&title_color=7c3aed&text_color=a855f7&icon_color=7c3aed&utcOffset=6&hide_border=true" alt="Productive Time" width="97%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almuzahidseyam&bg_color=00000000&color=a855f7&line=9333ea&point=c084fc&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+
 
 ---
 
