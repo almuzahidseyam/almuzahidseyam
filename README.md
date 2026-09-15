@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=155&section=header&text=Muhammad%20Al-Muzahid&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Software%20Engineer%20Candidate%20%7C%20ML%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=15" />
+﻿<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:7c3aed&height=155&section=header&text=Muhammad%20Al-Muzahid&fontSize=36&fontColor=4c1d95&animation=fadeIn&fontAlignY=37&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=15&descColor=4c1d95" />
 </p>
 
 <p align="center">
@@ -23,123 +23,118 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I am a Computer Science graduate from Patuakhali Science and Technology University and currently pursuing M.Sc. Engg. in Information and Communication Technology at Bangladesh University of Engineering and Technology.
 
-My interests connect software engineering, competitive programming, machine learning, and research. I enjoy solving algorithmic problems, building useful tools, and working on research-driven projects in machine learning, imbalanced classification, active learning, computer vision, and applied AI.
+My core expertise lies in **Software Engineering, Systems Design, Applied Artificial Intelligence, and Competitive Programming**. I thrive on architecting scalable software systems, developing AI-driven solutions, and pushing the boundaries of machine learning research. 
 
-- Former Lecturer, Department of CSE, Trust University, Barishal
-- 3-time ICPC Asia Dhaka Regionalist and NCPC 2023 Finalist
-- 2600+ solved programming problems across online judges
-- Published research in IEEE Xplore
-- Interested in software engineering, AI, ML, deep learning, cryptography, and data-driven systems
-
----
-
-## Current Focus
-
-- Building practical software engineering portfolio projects
-- Improving full-stack development and backend fundamentals
-- Practicing algorithms, data structures, and problem solving
-- Exploring machine learning research and AI-based classification problems
-- Strengthening research, development, and industry-ready technical skills
+- 🚀 Passionate about building high-performance backend systems and complete full-stack SaaS platforms.
+- 🏆 3-time ICPC Asia Dhaka Regionalist and NCPC 2023 Finalist.
+- 💡 Solved 2600+ algorithmic problems across various online judges.
+- 📚 Published researcher in IEEE Xplore with a focus on Deep Learning and Imbalanced Classification.
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Skills & Stack
 
-### 🚀 Brainsoft-OJ
+<p>
+  <strong>Languages:</strong><br>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,java,php,dart" />
+</p>
+<p>
+  <strong>Frontend & Full-Stack:</strong><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,flutter,html,css" />
+</p>
+<p>
+  <strong>Backend, Databases & DevOps:</strong><br>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,redis,git,github,docker,linux" />
+</p>
+<p>
+  <strong>AI & Research:</strong><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,jupyter,latex" />
+</p>
+
+---
+
+## 🚀 Featured Software Engineering Projects
+
+### ⚡ TurboCache-Cpp
+A high-performance, multi-threaded in-memory caching system (a Mini Redis) built entirely from scratch in **C++17**.
+- **Tech Stack:** Raw C++, Winsock2 API, Thread Pool, Readers-Writer Locks (std::shared_mutex).
+- **Features:** Custom TCP server handling concurrent connections efficiently without bloated frameworks, executing real-time RESP-like commands (SET, GET, DEL, DBSIZE).
+- **Repository:** [almuzahidseyam/TurboCache-Cpp](https://github.com/almuzahidseyam/TurboCache-Cpp)
+
+### 🤖 Multi-Agent Dev Team
+An autonomous TypeScript CLI platform where three AI agents (Planner, Coder, Reviewer) collaboratively build software projects in the terminal.
+- **Tech Stack:** Node.js, TypeScript, Gemini API, Chalk, Ora.
+- **Features:** Multi-agent pipeline orchestrating requirement analysis, automated code generation, and rigorous bug reviewing natively in the filesystem.
+- **Repository:** [almuzahidseyam/multi-agent-dev-team](https://github.com/almuzahidseyam/multi-agent-dev-team)
+
+### 📧 ProfEmail SaaS
+A modern SaaS web platform designed to help researchers parse their CVs and automatically generate highly tailored cold emails for university professors.
+- **Tech Stack:** Next.js, Tailwind CSS, Gemini 2.5 Flash, Native PDF parsing.
+- **Features:** AI-powered context extraction from PDFs, customizable prompt parameters, and responsive UI.
+- **Repository:** [almuzahidseyam/profemail-saas](https://github.com/almuzahidseyam/profemail-saas)
+
+### 📊 CF AI Analyzer
+An AI-powered Codeforces assistant that intelligently analyzes a user's failed submissions to recommend targeted algorithmic practice.
+- **Tech Stack:** Next.js, React, Codeforces Official API, AI Integration.
+- **Features:** Fetches exact WA/TLE submissions, deduces weak concepts (e.g., DP, Graph Theory), and provides a personalized improvement roadmap.
+- **Repository:** [almuzahidseyam/cf-ai-analyzer](https://github.com/almuzahidseyam/cf-ai-analyzer)
+
+### 💻 Brainsoft-OJ
 A remarkable, local-first Online Judge platform for competitive programming and algorithm practice.
-- **Repository:** https://github.com/almuzahidseyam/Brainsoft-OJ
-- **Tech Stack:** React, Node.js, SQLite, C++ STL, Python, Java 21, Custom Judge Engine
-- **Features:** Real-time sandboxed code execution, Monaco in-browser editor, SQLite zero-config database.
-
-### 🤖 Local Personal AI Workstation
-An enterprise-grade, privacy-first local AI ecosystem built around Ollama and HuggingFace.
-- **Repository:** https://github.com/almuzahidseyam/Local-Personal-AI-Workstation
-- **Tech Stack:** Python, Jupyter, Ollama, HuggingFace, LLaMA 3, Gemma 2
-- **Features:** Offline multi-modal inference, retrieval-augmented generation (RAG) architecture.
-
-### 🎯 CF Practice Ladder Builder
-A modern Codeforces practice ladder builder that compares a user's solved problems with an expert Codeforces handle and recommends unsolved rated problems for targeted practice.
-- **Live Demo:** https://cf-practice-ladder.vercel.app
-- **Repository:** https://github.com/almuzahidseyam/cf-practice-ladder
-- **Tech Stack:** Next.js, React, CSS, Codeforces Public API, Vercel
+- **Tech Stack:** React, Node.js, SQLite, C++ STL, Python, Java.
+- **Features:** Real-time sandboxed code execution, Monaco in-browser editor, zero-config database architecture.
+- **Repository:** [almuzahidseyam/Brainsoft-OJ](https://github.com/almuzahidseyam/Brainsoft-OJ)
 
 ---
 
-## Research and Academic Work
+## 🏆 Competitive Programming
+
+- **Codeforces:** Pupil (Max rating: 1376)
+- **CodeChef:** 3 Star (Max rating: 1745)
+- **AtCoder:** Rating 456
+- **BeeCrowd:** Top 1% Global
+- **Total Solved:** 2600+ algorithmic problems
+
+**Achievements:**
+- ICPC Asia Dhaka Regionalist (2023, 2024, 2025)
+- NCPC Finalist (2023)
+- 3rd place, PSTU Independence Day Programming Contest (2024)
+- National Undergraduate Mathematics Olympiad Awardee
+
+---
+
+## 🔬 Research & Thesis
 
 ### DASS: Density-Adaptive Synthetic Sampling for Improved Imbalanced Classification
-
-Published in IEEE Xplore at the 6th International Conference on Sustainable Technologies for Industry 5.0.
-
-- DOI: 10.1109/STI64222.2024.10951098
-- Area: Machine Learning, Imbalanced Classification, Synthetic Sampling
+*Published in IEEE Xplore at the 6th International Conference on Sustainable Technologies for Industry 5.0.*
+- **DOI:** [10.1109/STI64222.2024.10951098](https://doi.org/10.1109/STI64222.2024.10951098)
+- **Domain:** Machine Learning, Computer Vision, Synthetic Sampling.
 
 ### M.Sc. Thesis
-
-Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Classification.
-
-- Area: Deep Learning, Active Learning, Imbalanced Classification, Attention Mechanisms
-- Institution: Patuakhali Science and Technology University
+*Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Classification.*
+- **Domain:** Deep Learning, Active Learning, Attention Mechanisms.
 
 ---
 
-## Technical Skills
+## 🎓 Education
 
-### Programming Languages
+**Bangladesh University of Engineering and Technology (BUET)**  
+M.Sc. Engg. in Information and Communication Technology | *May 2025 – Present*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php,dart" />
-</p>
-
-### Web and App Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flutter,html,css" />
-</p>
-
-### Databases and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,git,github,docker,latex,vscode" />
-</p>
-
-### Core Areas
-
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Competitive Programming
-- Machine Learning and Deep Learning
-- Cryptography and Security
-- Research-oriented Software Development
+**Patuakhali Science and Technology University (PSTU)**  
+M.Sc. in Computer Science and Information Technology | *Jan 2025 – Apr 2026*  
+B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 
 ---
 
-## Competitive Programming
-
-- Codeforces: Pupil, max rating 1376
-- CodeChef: 3 Star, max rating 1745
-- AtCoder: rating 456
-- BeeCrowd: Top 1%
-- Total solved: 2600+ problems across multiple online judges
-
-### Selected Achievements
-
-- ICPC Asia Dhaka Regionalist 2023, 2024, 2025
-- NCPC 2023 Finalist
-- 3rd place, PSTU Independence Day Programming Contest 2024
-- National Undergraduate Mathematics Olympiad awardee
-
----
-
-## 📊 GitHub Activity & Stats
+## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=almuzahidseyam&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=almuzahidseyam&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -151,37 +146,21 @@ Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Cl
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=almuzahidseyam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=almuzahidseyam&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=almuzahidseyam&show_icons=true&bg_color=00000000&title_color=9333ea&text_color=a855f7&icon_color=c084fc&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=almuzahidseyam&background=00000000&fire=9333ea&ring=c084fc&currStreakLabel=a855f7&sideNums=a855f7&currStreakNum=9333ea&dates=c084fc&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuzahidseyam&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuzahidseyam&layout=compact&bg_color=00000000&title_color=9333ea&text_color=a855f7&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almuzahidseyam&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almuzahidseyam&bg_color=00000000&color=a855f7&line=9333ea&point=c084fc&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## Education
-
-**Bangladesh University of Engineering and Technology**  
-M.Sc. Engg. in Information and Communication Technology  
-May 2025 – Present
-
-**Patuakhali Science and Technology University**  
-M.Sc. in Computer Science and Information Technology  
-Jan 2025 – Apr 2026
-
-**Patuakhali Science and Technology University**  
-B.Sc. Engg. in Computer Science and Engineering  
-Jan 2019 – Dec 2024
-
----
-
-## Connect With Me
+## 📬 Connect With Me
 
 <p>
   <a href="https://github.com/almuzahidseyam">
@@ -190,18 +169,16 @@ Jan 2019 – Dec 2024
   <a href="https://www.linkedin.com/in/almuzahid/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.facebook.com/muhammadalmuzahid/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
+  <a href="https://codeforces.com/profile/brainsoft">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces" />
   </a>
   <a href="mailto:almuzahid16@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=almuzahidseyam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=almuzahidseyam&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -209,5 +186,5 @@ Jan 2019 – Dec 2024
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=95&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffffff,0:7c3aed&height=95&section=footer" />
 </p>
