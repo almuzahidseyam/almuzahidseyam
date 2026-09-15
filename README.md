@@ -198,7 +198,7 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almuzahidseyam&bg_color=ffffff&title_color=7c3aed&text_color=a855f7&icon_color=7c3aed&hide_border=true" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almuzahidseyam&bg_color=ffffff&title_color=7c3aed&text_color=a855f7&icon_color=7c3aed&hide_border=true" alt="Profile Details" width="100%" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almuzahidseyam&bg_color=ffffff&title_color=7c3aed&text_color=a855f7&icon_color=7c3aed&hide_border=true" alt="Stats" width="49%" />
