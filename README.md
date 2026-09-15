@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I+am+Muhammad+Al-Muzahid;Software+Engineer+%7C+AI+%26+ML+Researcher;Competitive+Programmer+(CodeChef+3★);Exploring+Systems+Design+%26+Deep+Learning&font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000&color=7C3AED" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20%F0%9F%91%8B%2C%20I%20am%20Muhammad%20Al-Muzahid;Software%20Engineer%20%7C%20AI%20%26%20ML%20Researcher;Competitive%20Programmer%20%28CodeChef%203%E2%98%85%29;Exploring%20Systems%20Design%20%26%20Deep%20Learning&font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000&color=7C3AED" alt="Typing SVG" />
   </a>
 </p>
 
