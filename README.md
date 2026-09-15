@@ -15,6 +15,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/almuzahidseyam/almuzahidseyam-portfolio/blob/main/public/assets/cv/software-engineer-cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Software%20Engineer%20CV-PDF-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Download" />
+  </a>
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
