@@ -129,11 +129,16 @@ My core expertise lies in **Software Engineering, Systems Design, Applied Artifi
 
 ## 🏆 Competitive Programming
 
-- **Codeforces:** Pupil (Max rating: 1376)
-- **CodeChef:** 3 Star (Max rating: 1745)
-- **AtCoder:** Rating 456
-- **BeeCrowd:** Top 1% Global
-- **Total Solved:** 2600+ algorithmic problems
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=brainsoft&bg_color=00000000&title_color=7c3aed&text_color=a855f7&icon_color=c084fc&hide_border=true" alt="Codeforces Stats" />
+  <img src="https://leetcard.jacoblin.cool/brainsoft?theme=transparent&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeChef-3_Star_(1745)-7c3aed?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Stats" />
+  <img src="https://img.shields.io/badge/AtCoder-Rating_456-7c3aed?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder Stats" />
+  <img src="https://img.shields.io/badge/BeeCrowd-Top_1%25_Global-7c3aed?style=for-the-badge&logo=codeforces&logoColor=white" alt="BeeCrowd Stats" />
+</p>
 
 **Achievements:**
 - ICPC Asia Dhaka Regionalist (2023, 2024, 2025)
