@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoZHA4czd1dWV0enh4dDE5MXdhZ3dvNmxieW05ZXdmODRsMWlqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Matrix Coding" width="100%" />
 </p>
 
@@ -11,28 +11,82 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Muhammad+Al-Muzahid;Software+Engineer+%7C+AI+%26+ML+Researcher;Competitive+Programmer+(CodeChef+3★);Exploring+Systems+Design+%26+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I+am+Muhammad+Al-Muzahid;Software+Engineer+%7C+AI+%26+ML+Researcher;Competitive+Programmer+(CodeChef+3★);Exploring+Systems+Design+%26+Deep+Learning&font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000&color=7C3AED" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/almuzahidseyam">
-    <img src="https://img.shields.io/badge/GitHub-almuzahidseyam-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/almuzahid/">
-    <img src="https://img.shields.io/badge/LinkedIn-almuzahid-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://codeforces.com/profile/brainsoft">
-    <img src="https://img.shields.io/badge/Codeforces-brainsoft-1F8ACB?style=flat-square&logo=codeforces" />
-  </a>
-  <a href="mailto:almuzahid16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-almuzahid16%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <td style="text-align: center;">
+        <a href="https://github.com/almuzahidseyam" title="GitHub" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" title="GitHub">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://www.linkedin.com/in/almuzahid/" title="LinkedIn" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="mailto:almuzahid16@gmail.com" title="Email" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email" title="Email">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://www.facebook.com/muhammadalmuzahid/" title="Facebook" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" title="Facebook">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://codeforces.com/profile/brainsoft" title="Codeforces" target="_blank">
+          <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces" title="Codeforces">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
+## 📬 Connect With Me
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td style="text-align: center;">
+        <a href="https://github.com/almuzahidseyam" title="GitHub" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" title="GitHub">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://www.linkedin.com/in/almuzahid/" title="LinkedIn" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="mailto:almuzahid16@gmail.com" title="Email" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email" title="Email">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://www.facebook.com/muhammadalmuzahid/" title="Facebook" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" title="Facebook">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://codeforces.com/profile/brainsoft" title="Codeforces" target="_blank">
+          <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces" title="Codeforces">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ## 👨‍💻 About Me
+<p><img width="28%" align="right" alt="Cherry Blossom Spinner" src="https://openclipart.org/download/231263/cherry-blossom-spinner.svg"/></p>
 
 I am a Computer Science graduate from Patuakhali Science and Technology University and currently pursuing M.Sc. Engg. in Information and Communication Technology at Bangladesh University of Engineering and Technology.
 
@@ -168,6 +222,42 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 </p>
 
 ---
+
+## 📬 Connect With Me
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td style="text-align: center;">
+        <a href="https://github.com/almuzahidseyam" title="GitHub" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" title="GitHub">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://www.linkedin.com/in/almuzahid/" title="LinkedIn" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="mailto:almuzahid16@gmail.com" title="Email" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email" title="Email">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://www.facebook.com/muhammadalmuzahid/" title="Facebook" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" title="Facebook">
+        </a>
+      </td>
+      <td style="text-align: center;">
+        <a href="https://codeforces.com/profile/brainsoft" title="Codeforces" target="_blank">
+          <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces" title="Codeforces">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 <p align="center">
   <i>Building, learning, solving, and improving one step at a time.</i>
