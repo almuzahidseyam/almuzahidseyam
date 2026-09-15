@@ -126,24 +126,7 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 
 ---
 
-## 📈 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=almuzahidseyam&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=almuzahidseyam&show_icons=true&bg_color=00000000&title_color=9333ea&text_color=a855f7&icon_color=c084fc&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=almuzahidseyam&background=00000000&fire=9333ea&ring=c084fc&currStreakLabel=a855f7&sideNums=a855f7&currStreakNum=9333ea&dates=c084fc&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuzahidseyam&layout=compact&bg_color=00000000&title_color=9333ea&text_color=a855f7&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almuzahidseyam&bg_color=00000000&color=a855f7&line=9333ea&point=c084fc&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+## 📈 GitHub Activity
 
 <p align="center">
   <picture>
@@ -151,6 +134,14 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg">
     <img alt="almuzahidseyam's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/streak.svg" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almuzahidseyam&bg_color=00000000&color=a855f7&line=9333ea&point=c084fc&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
