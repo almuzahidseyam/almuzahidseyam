@@ -1,9 +1,18 @@
 ﻿<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:7c3aed&height=155&section=header&text=Muhammad%20Al-Muzahid&fontSize=36&fontColor=4c1d95&animation=fadeIn&fontAlignY=37&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=15&descColor=4c1d95" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoZHA4czd1dWV0enh4dDE5MXdhZ3dvNmxieW05ZXdmODRsMWlqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Matrix Coding" width="100%" />
 </p>
 
 <p align="center">
-  M.Sc. Engg. in ICT at BUET • CSE Graduate • Former Lecturer • 3x ICPC Asia Dhaka Regionalist
+    <a href="https://github.com/almuzahidseyam/almuzahidseyam"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="status"></a>
+    <a href="https://github.com/almuzahidseyam?tab=followers"><img src="https://img.shields.io/github/followers/almuzahidseyam?color=blue&logo=github&style=flat" alt="followers"></a>
+    <a href="https://github.com/almuzahidseyam?tab=repositories"><img src="https://img.shields.io/github/stars/almuzahidseyam?color=yellow&logo=github&style=flat" alt="stars"></a>
+    <img src="https://komarev.com/ghpvc/?username=almuzahidseyam&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Muhammad+Al-Muzahid;Software+Engineer+%7C+AI+%26+ML+Researcher;Competitive+Programmer+(CodeChef+3★);Exploring+Systems+Design+%26+Deep+Learning" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -138,14 +147,6 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg">
-    <img alt="almuzahidseyam's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=almuzahidseyam&show_icons=true&bg_color=00000000&title_color=9333ea&text_color=a855f7&icon_color=c084fc&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=almuzahidseyam&background=00000000&fire=9333ea&ring=c084fc&currStreakLabel=a855f7&sideNums=a855f7&currStreakNum=9333ea&dates=c084fc&hide_border=true" />
 </p>
@@ -158,28 +159,15 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=almuzahidseyam&bg_color=00000000&color=a855f7&line=9333ea&point=c084fc&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
----
-
-## 📬 Connect With Me
-
-<p>
-  <a href="https://github.com/almuzahidseyam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/almuzahid/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://codeforces.com/profile/brainsoft">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces" />
-  </a>
-  <a href="mailto:almuzahid16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=almuzahidseyam&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg">
+    <img alt="almuzahidseyam's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
+
+---
 
 <p align="center">
   <i>Building, learning, solving, and improving one step at a time.</i>
