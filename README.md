@@ -131,7 +131,7 @@ My core expertise lies in **Software Engineering, Systems Design, Applied Artifi
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=brainsoft&bg_color=00000000&title_color=7c3aed&text_color=a855f7&icon_color=c084fc&hide_border=true" alt="Codeforces Stats" />
-  <img src="https://leetcard.jacoblin.cool/brainsoft?theme=transparent&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/brainsoft?theme=transparent&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
