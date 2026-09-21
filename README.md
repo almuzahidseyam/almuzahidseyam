@@ -22,11 +22,6 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,flutter,dart,git,github,docker,linux&perline=12" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
