@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoZHA4czd1dWV0enh4dDE5MXdhZ3dvNmxieW05ZXdmODRsMWlqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Matrix Coding" width="100%" height="150" />
 </p>
 
@@ -22,27 +22,23 @@
 </p>
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,flutter,dart,git,github,docker,linux&perline=12" />
-</p>
-
 ---
 
-## ðŸ‘¨â€ðŸ’» About Me
+## 👨‍💻 About Me
 <p><img width="28%" align="right" alt="Cherry Blossom Spinner" src="./assets/flower-spinner.svg"/></p>
 
 I am a Computer Science graduate from Patuakhali Science and Technology University and currently pursuing M.Sc. Engg. in Information and Communication Technology at Bangladesh University of Engineering and Technology.
 
 My core expertise lies in **Software Engineering, Systems Design, Applied Artificial Intelligence, and Competitive Programming**. I thrive on architecting scalable software systems, developing AI-driven solutions, and pushing the boundaries of machine learning research. 
 
-- ðŸš€ Passionate about building high-performance backend systems and complete full-stack SaaS platforms.
-- ðŸ† 3-time ICPC Asia Dhaka Regionalist and NCPC 2023 Finalist.
-- ðŸ’¡ Solved 2600+ algorithmic problems across various online judges.
-- ðŸ“š Published researcher in IEEE Xplore with a focus on Deep Learning and Imbalanced Classification.
+- 🚀 Passionate about building high-performance backend systems and complete full-stack SaaS platforms.
+- 🏆 3-time ICPC Asia Dhaka Regionalist and NCPC 2023 Finalist.
+- 💡 Solved 2600+ algorithmic problems across various online judges.
+- 📚 Published researcher in IEEE Xplore with a focus on Deep Learning and Imbalanced Classification.
 
 ---
 
-## ðŸ› ï¸ Technical Skills & Stack
+## 🛠️ Technical Skills & Stack
 
 <p>
   <strong>Languages:</strong><br>
@@ -64,14 +60,14 @@ My core expertise lies in **Software Engineering, Systems Design, Applied Artifi
 ---
 
 <details open>
-<summary><h2>ðŸš€ Featured Software Engineering Projects</h2></summary>
+<summary><h2>🚀 Featured Software Engineering Projects</h2></summary>
 <br>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/almuzahidseyam/TurboCache-Cpp">
-        <img src="https://img.shields.io/badge/âš¡_TurboCache--Cpp-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="TurboCache-Cpp" />
+        <img src="https://img.shields.io/badge/⚡_TurboCache--Cpp-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="TurboCache-Cpp" />
       </a>
       <br><br>
       A high-performance, multi-threaded in-memory caching system (a Mini Redis) built entirely from scratch. Custom TCP server handling concurrent connections efficiently.
@@ -81,7 +77,7 @@ My core expertise lies in **Software Engineering, Systems Design, Applied Artifi
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/almuzahidseyam/multi-agent-dev-team">
-        <img src="https://img.shields.io/badge/ðŸ¤–_Multi--Agent_Dev_Team-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Multi-Agent Dev Team" />
+        <img src="https://img.shields.io/badge/🤖_Multi--Agent_Dev_Team-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Multi-Agent Dev Team" />
       </a>
       <br><br>
       An autonomous TypeScript CLI platform where three AI agents (Planner, Coder, Reviewer) collaboratively build software projects in the terminal natively.
@@ -93,7 +89,7 @@ My core expertise lies in **Software Engineering, Systems Design, Applied Artifi
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/almuzahidseyam/profemail-saas">
-        <img src="https://img.shields.io/badge/ðŸ“§_ProfEmail_SaaS-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="ProfEmail SaaS" />
+        <img src="https://img.shields.io/badge/📧_ProfEmail_SaaS-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="ProfEmail SaaS" />
       </a>
       <br><br>
       A modern SaaS web platform designed to help researchers parse their CVs and automatically generate highly tailored cold emails for university professors.
@@ -103,7 +99,7 @@ My core expertise lies in **Software Engineering, Systems Design, Applied Artifi
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/almuzahidseyam/cf-ai-analyzer">
-        <img src="https://img.shields.io/badge/ðŸ“Š_CF_AI_Analyzer-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="CF AI Analyzer" />
+        <img src="https://img.shields.io/badge/📊_CF_AI_Analyzer-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="CF AI Analyzer" />
       </a>
       <br><br>
       An AI-powered Codeforces assistant that intelligently analyzes a user's failed submissions to recommend targeted algorithmic practice and roadmaps.
@@ -115,7 +111,7 @@ My core expertise lies in **Software Engineering, Systems Design, Applied Artifi
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/almuzahidseyam/Brainsoft-OJ">
-        <img src="https://img.shields.io/badge/ðŸ’»_Brainsoft--OJ-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Brainsoft-OJ" />
+        <img src="https://img.shields.io/badge/💻_Brainsoft--OJ-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Brainsoft-OJ" />
       </a>
       <br><br>
       A remarkable, local-first Online Judge platform for competitive programming and algorithm practice featuring real-time sandboxed code execution.
@@ -126,7 +122,7 @@ My core expertise lies in **Software Engineering, Systems Design, Applied Artifi
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/almuzahidseyam?tab=repositories&sort=stargazers">
-        <img src="https://img.shields.io/badge/ðŸ“‚_View_All_Projects-ffffff?style=for-the-badge&logo=github&logoColor=7c3aed" alt="View All Projects" />
+        <img src="https://img.shields.io/badge/📂_View_All_Projects-ffffff?style=for-the-badge&logo=github&logoColor=7c3aed" alt="View All Projects" />
       </a>
       <br><br>
       <i>Explore my other repositories, competitive programming solutions, algorithm implementations, and open-source contributions on GitHub.</i>
@@ -138,7 +134,7 @@ My core expertise lies in **Software Engineering, Systems Design, Applied Artifi
 
 ---
 
-## ðŸ† Competitive Programming
+## 🏆 Competitive Programming
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=brainsoft&bg_color=00000000&title_color=7c3aed&text_color=a855f7&icon_color=c084fc&hide_border=true" alt="Codeforces Stats" height="220" />
@@ -160,15 +156,15 @@ My core expertise lies in **Software Engineering, Systems Design, Applied Artifi
 ---
 
 <details open>
-<summary><h2>ðŸ”¬ Research & Thesis</h2></summary>
+<summary><h2>🔬 Research & Thesis</h2></summary>
 <br>
 
-> ### ðŸ“„ DASS: Density-Adaptive Synthetic Sampling for Improved Imbalanced Classification
+> ### 📄 DASS: Density-Adaptive Synthetic Sampling for Improved Imbalanced Classification
 > *Published in IEEE Xplore at the 6th International Conference on Sustainable Technologies for Industry 5.0.*
 > - **DOI:** [10.1109/STI64222.2024.10951098](https://doi.org/10.1109/STI64222.2024.10951098)
 > - **Domain:** Machine Learning, Computer Vision, Synthetic Sampling.
 
-> ### ðŸŽ“ M.Sc. Thesis
+> ### 🎓 M.Sc. Thesis
 > *Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Classification.*
 > - **Domain:** Deep Learning, Active Learning, Attention Mechanisms.
 
@@ -176,18 +172,18 @@ My core expertise lies in **Software Engineering, Systems Design, Applied Artifi
 
 ---
 
-## ðŸŽ“ Education
+## 🎓 Education
 
 **Bangladesh University of Engineering and Technology (BUET)**  
-M.Sc. Engg. in Information and Communication Technology | *May 2025 â€“ Present*
+M.Sc. Engg. in Information and Communication Technology | *May 2025 – Present*
 
 **Patuakhali Science and Technology University (PSTU)**  
-M.Sc. in Computer Science and Information Technology | *Jan 2025 â€“ Apr 2026*  
-B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 â€“ Dec 2024*
+M.Sc. in Computer Science and Information Technology | *Jan 2025 – Apr 2026*  
+B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 
 ---
 
-## ðŸ“ˆ GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <picture>
@@ -213,7 +209,7 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 â€“ Dec 2024*
 
 ---
 
-## ðŸ“¬ Connect With Me
+## 📬 Connect With Me
 
 <table align="center">
   <tbody>
