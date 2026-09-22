@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/almuzahidseyam" target="_blank">
+  <a href="https://www.buymeacoffee.com/almuzahidseyam" target="blank">
     <img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
   </a>
   &nbsp;&nbsp;&nbsp;
