@@ -19,7 +19,7 @@
   <a href="https://www.buymeacoffee.com/almuzahidseyam" target="blank">
     <img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+     
   <a href="https://github.com/almuzahidseyam/almuzahidseyam/blob/main/assets/software-engineer-cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Software%20Engineer%20CV-PDF-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Download" />
   </a>
