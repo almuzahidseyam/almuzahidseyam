@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/almuzahidseyam" target="_blank"><img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a><img src="https://img.shields.io/badge/-00000000?style=for-the-badge" width="15" /><a href="https://github.com/almuzahidseyam/almuzahidseyam/blob/main/assets/software-engineer-cv.pdf" target="_blank"><img src="https://img.shields.io/badge/Download%20Software%20Engineer%20CV-PDF-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Download" /></a>
+  <a href="https://www.buymeacoffee.com/almuzahidseyam" target="_blank"><img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="15" height="1" /><a href="https://github.com/almuzahidseyam/almuzahidseyam/blob/main/assets/software-engineer-cv.pdf" target="_blank"><img src="https://img.shields.io/badge/Download%20Software%20Engineer%20CV-PDF-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Download" /></a>
 </p>
 
 ---
