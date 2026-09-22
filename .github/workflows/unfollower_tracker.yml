@@ -1,0 +1,83 @@
+﻿name: Unfollower Tracker
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  track_unfollowers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch Current Followers
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api users/almuzahidseyam/followers --paginate --jq '.[].login' | sort > current_followers.txt
+
+      - name: Compare and Detect Unfollowers
+        id: compare
+        run: |
+          if [ -f "followers.txt" ]; then
+            # comm -23 outputs lines unique to file 1 (old followers not in current)
+            comm -23 followers.txt current_followers.txt > unfollowers.txt
+            
+            if [ -s unfollowers.txt ]; then
+              echo "UNFOLLOWERS_FOUND=true" >> $GITHUB_ENV
+              
+              # Build the body for the issue
+              BODY="🚨 **Unfollower Alert!**
+
+The following users have unfollowed you:
+"
+              while IFS= read -r user; do
+                BODY="- [@$user](https://github.com/$user)
+"
+              done < unfollowers.txt
+              
+              # Escape newlines for GitHub Actions output
+              BODY="$BODY
+
+*Tracker updated automatically.*"
+              echo "ISSUE_BODY<<EOF" >> $GITHUB_ENV
+              echo "$BODY" >> $GITHUB_ENV
+              echo "EOF" >> $GITHUB_ENV
+            else
+              echo "No unfollowers detected."
+              echo "UNFOLLOWERS_FOUND=false" >> $GITHUB_ENV
+            fi
+          else
+            echo "No previous followers.txt found. Creating baseline."
+            echo "UNFOLLOWERS_FOUND=false" >> $GITHUB_ENV
+          fi
+
+      - name: Create Notification Issue
+        if: env.UNFOLLOWERS_FOUND == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create --title "🚨 Unfollower Detected!" --body "$ISSUE_BODY" --assignee "almuzahidseyam"
+
+      - name: Update Followers Baseline
+        run: |
+          cp current_followers.txt followers.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add followers.txt
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update followers baseline [skip ci]"
+            git push
+          fi
