@@ -17,17 +17,13 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/almuzahidseyam" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor_Me-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Sponsor" />
+    <img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
   </a>
-</p>
-
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/almuzahidseyam/almuzahidseyam/blob/main/assets/software-engineer-cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Software%20Engineer%20CV-PDF-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Download" />
   </a>
 </p>
-
 
 ---
 
@@ -211,8 +207,6 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almuzahidseyam&bg_color=ffffff&title_color=7c3aed&text_color=a855f7&icon_color=7c3aed&hide_border=true" alt="Stats" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=almuzahidseyam&bg_color=ffffff&title_color=7c3aed&text_color=a855f7&icon_color=7c3aed&utcOffset=6&hide_border=true" alt="Productive Time" width="49%" />
 </p>
-
-
 
 ---
 
