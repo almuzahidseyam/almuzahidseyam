@@ -1,4 +1,4 @@
-﻿name: Unfollower Tracker
+name: Unfollower Tracker
 
 on:
   schedule:
