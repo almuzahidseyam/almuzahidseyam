@@ -2,8 +2,8 @@ name: Unfollower Tracker
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight UTC
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   track_unfollowers:
@@ -28,28 +28,25 @@ jobs:
         id: compare
         run: |
           if [ -f "followers.txt" ]; then
-            # comm -23 outputs lines unique to file 1 (old followers not in current)
             comm -23 followers.txt current_followers.txt > unfollowers.txt
             
             if [ -s unfollowers.txt ]; then
               echo "UNFOLLOWERS_FOUND=true" >> $GITHUB_ENV
               
-              # Build the body for the issue
               BODY="🚨 **Unfollower Alert!**
 
 The following users have unfollowed you:
 "
               while IFS= read -r user; do
-                BODY="- [@$user](https://github.com/$user)
+                BODY="${BODY}- [@${user}](https://github.com/${user})
 "
               done < unfollowers.txt
               
-              # Escape newlines for GitHub Actions output
-              BODY="$BODY
+              BODY="${BODY}
 
 *Tracker updated automatically.*"
               echo "ISSUE_BODY<<EOF" >> $GITHUB_ENV
-              echo "$BODY" >> $GITHUB_ENV
+              echo -e "$BODY" >> $GITHUB_ENV
               echo "EOF" >> $GITHUB_ENV
             else
               echo "No unfollowers detected."
@@ -74,7 +71,6 @@ The following users have unfollowed you:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add followers.txt
           
-          # Only commit if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
