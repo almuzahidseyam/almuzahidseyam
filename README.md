@@ -224,3 +224,7 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffffff,0:7c3aed&height=95&section=footer" />
 </p>
+
+## ?? Recently Updated Projects
+<!-- LATEST_REPOS_START -->
+<!-- LATEST_REPOS_END -->
