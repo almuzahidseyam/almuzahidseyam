@@ -33,18 +33,12 @@ jobs:
             if [ -s unfollowers.txt ]; then
               echo "UNFOLLOWERS_FOUND=true" >> $GITHUB_ENV
               
-              BODY="🚨 **Unfollower Alert!**
-
-The following users have unfollowed you:
-"
+              BODY="🚨 **Unfollower Alert!**\n\nThe following users have unfollowed you:\n"
               while IFS= read -r user; do
-                BODY="${BODY}- [@${user}](https://github.com/${user})
-"
+                BODY="${BODY}- [@${user}](https://github.com/${user})\n"
               done < unfollowers.txt
               
-              BODY="${BODY}
-
-*Tracker updated automatically.*"
+              BODY="${BODY}\n*Tracker updated automatically.*"
               echo "ISSUE_BODY<<EOF" >> $GITHUB_ENV
               echo -e "$BODY" >> $GITHUB_ENV
               echo "EOF" >> $GITHUB_ENV
