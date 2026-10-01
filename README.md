@@ -4,9 +4,9 @@
 
 <p align="center">
     <a href="https://github.com/almuzahidseyam/almuzahidseyam"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="status"></a>
-    <a href="https://github.com/almuzahidseyam?tab=followers"><img src="https://img.shields.io/github/followers/almuzahidseyam?color=blue&logo=github&style=flat&v=1" alt="followers"></a>
-    <a href="https://github.com/almuzahidseyam?tab=repositories"><img src="https://img.shields.io/github/stars/almuzahidseyam?color=yellow&logo=github&style=flat&v=1" alt="stars"></a>
-    <img src="https://komarev.com/ghpvc/?username=almuzahidseyam&label=Profile%20Views&color=7c3aed&style=flat&v=1" alt="Profile Views" />
+    <a href="https://github.com/almuzahidseyam?tab=followers"><img src="https://img.shields.io/github/followers/almuzahidseyam?color=blue&logo=github&style=flat&v=2" alt="followers"></a>
+    <a href="https://github.com/almuzahidseyam?tab=repositories"><img src="https://img.shields.io/github/stars/almuzahidseyam?color=yellow&logo=github&style=flat&v=2" alt="stars"></a>
+    <img src="https://komarev.com/ghpvc/?username=almuzahidseyam&label=Profile%20Views&color=7c3aed&style=flat&v=2" alt="Profile Views" />
 </p>
 
 <p align="center">
