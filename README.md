@@ -229,9 +229,9 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 <!-- LATEST_REPOS_START -->
 | ?? Project | ? Stars | ?? Last Updated |
 |:-----------|:---------|:----------------|
+| [nokia-3310-snake](https://github.com/almuzahidseyam/nokia-3310-snake) | 0 ? | Oct 02, 2026 |
 | [LiteBuster](https://github.com/almuzahidseyam/LiteBuster) | 0 ? | Oct 01, 2026 |
 | [SafeNet-Phishing-Shield](https://github.com/almuzahidseyam/SafeNet-Phishing-Shield) | 0 ? | Oct 01, 2026 |
 | [VaultMind-Local-RAG](https://github.com/almuzahidseyam/VaultMind-Local-RAG) | 0 ? | Oct 01, 2026 |
 | [AI-Braille-Translator](https://github.com/almuzahidseyam/AI-Braille-Translator) | 0 ? | Sep 30, 2026 |
-| [Pothole-Detection-Mapping](https://github.com/almuzahidseyam/Pothole-Detection-Mapping) | 0 ? | Sep 30, 2026 |
 <!-- LATEST_REPOS_END -->
