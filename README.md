@@ -229,9 +229,9 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 <!-- LATEST_REPOS_START -->
 | ?? Project | ? Stars | ?? Last Updated |
 |:-----------|:---------|:----------------|
-| [Codeforces-Rating-Forecaster](https://github.com/almuzahidseyam/Codeforces-Rating-Forecaster) | 0 ? | Oct 02, 2026 |
-| [coauthor-attribution-check](https://github.com/almuzahidseyam/coauthor-attribution-check) | 0 ? | Oct 02, 2026 |
-| [nokia-3310-snake](https://github.com/almuzahidseyam/nokia-3310-snake) | 0 ? | Oct 02, 2026 |
-| [LiteBuster](https://github.com/almuzahidseyam/LiteBuster) | 0 ? | Oct 01, 2026 |
-| [SafeNet-Phishing-Shield](https://github.com/almuzahidseyam/SafeNet-Phishing-Shield) | 0 ? | Oct 01, 2026 |
+| [cp-tracker](https://github.com/almuzahidseyam/cp-tracker) | 0 ? | Oct 04, 2026 |
+| [CNN-Architectures](https://github.com/almuzahidseyam/CNN-Architectures) | 0 ? | Oct 03, 2026 |
+| [Tic-Tac-Toe-Project](https://github.com/almuzahidseyam/Tic-Tac-Toe-Project) | 1 ? | Oct 03, 2026 |
+| [ACM-Library](https://github.com/almuzahidseyam/ACM-Library) | 5 ? | Oct 03, 2026 |
+| [muhammadalmuzahid](https://github.com/almuzahidseyam/muhammadalmuzahid) | 2 ? | Oct 03, 2026 |
 <!-- LATEST_REPOS_END -->
