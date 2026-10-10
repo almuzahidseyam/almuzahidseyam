@@ -229,9 +229,9 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 <!-- LATEST_REPOS_START -->
 | ?? Project | ? Stars | ?? Last Updated |
 |:-----------|:---------|:----------------|
+| [location-heatmap](https://github.com/almuzahidseyam/location-heatmap) | 0 ? | Oct 10, 2026 |
 | [cp-tracker](https://github.com/almuzahidseyam/cp-tracker) | 0 ? | Oct 04, 2026 |
 | [CNN-Architectures](https://github.com/almuzahidseyam/CNN-Architectures) | 0 ? | Oct 03, 2026 |
 | [Tic-Tac-Toe-Project](https://github.com/almuzahidseyam/Tic-Tac-Toe-Project) | 1 ? | Oct 03, 2026 |
 | [ACM-Library](https://github.com/almuzahidseyam/ACM-Library) | 5 ? | Oct 03, 2026 |
-| [muhammadalmuzahid](https://github.com/almuzahidseyam/muhammadalmuzahid) | 2 ? | Oct 03, 2026 |
 <!-- LATEST_REPOS_END -->
