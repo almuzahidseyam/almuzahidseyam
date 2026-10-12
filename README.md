@@ -6,7 +6,8 @@
     <a href="https://github.com/almuzahidseyam/almuzahidseyam"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="status"></a>
     <a href="https://github.com/almuzahidseyam?tab=followers"><img src="https://img.shields.io/github/followers/almuzahidseyam?color=blue&logo=github&style=flat&v=2" alt="followers"></a>
     <a href="https://github.com/almuzahidseyam?tab=repositories"><img src="https://img.shields.io/github/stars/almuzahidseyam?color=yellow&logo=github&style=flat&v=2" alt="stars"></a>
-    <img src="https://komarev.com/ghpvc/?username=almuzahidseyam&label=Profile%20Views&color=7c3aed&style=flat&v=4" alt="Profile Views" />
+    <!-- Use the verified GitHub Camo URL; the profile-generated proxy fails to fetch Komarev. -->
+    <img src="https://camo.githubusercontent.com/c73da1b4d480937e3410d2fa922e3ac4d5f5d98a7732b37b4c83f860461c91b9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c6d757a61686964736579616d266c6162656c3d50726f66696c65253230566965777326636f6c6f723d376333616564267374796c653d666c617426763d34" alt="Profile Views" />
 </p>
 
 <p align="center">
