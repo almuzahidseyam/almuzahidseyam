@@ -229,8 +229,8 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 <!-- LATEST_REPOS_START -->
 | ?? Project | ? Stars | ?? Last Updated |
 |:-----------|:---------|:----------------|
+| [TrafficSense](https://github.com/almuzahidseyam/TrafficSense) | 1 ? | Oct 15, 2026 |
 | [bangladesh-fourier-epicycles](https://github.com/almuzahidseyam/bangladesh-fourier-epicycles) | 0 ? | Oct 14, 2026 |
-| [TrafficSense](https://github.com/almuzahidseyam/TrafficSense) | 0 ? | Oct 13, 2026 |
 | [location-heatmap](https://github.com/almuzahidseyam/location-heatmap) | 0 ? | Oct 10, 2026 |
 | [cp-tracker](https://github.com/almuzahidseyam/cp-tracker) | 0 ? | Oct 04, 2026 |
 | [CNN-Architectures](https://github.com/almuzahidseyam/CNN-Architectures) | 0 ? | Oct 03, 2026 |
