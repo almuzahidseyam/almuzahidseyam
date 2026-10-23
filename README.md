@@ -229,9 +229,9 @@ B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
 <!-- LATEST_REPOS_START -->
 | ?? Project | ? Stars | ?? Last Updated |
 |:-----------|:---------|:----------------|
+| [almuzahidseyam.github.io](https://github.com/almuzahidseyam/almuzahidseyam.github.io) | 0 ? | Oct 23, 2026 |
 | [fieldwork-commerce](https://github.com/almuzahidseyam/fieldwork-commerce) | 0 ? | Oct 17, 2026 |
 | [formly-chat-forms](https://github.com/almuzahidseyam/formly-chat-forms) | 0 ? | Oct 17, 2026 |
 | [TrafficSense](https://github.com/almuzahidseyam/TrafficSense) | 2 ? | Oct 16, 2026 |
 | [bangladesh-fourier-epicycles](https://github.com/almuzahidseyam/bangladesh-fourier-epicycles) | 0 ? | Oct 14, 2026 |
-| [location-heatmap](https://github.com/almuzahidseyam/location-heatmap) | 0 ? | Oct 10, 2026 |
 <!-- LATEST_REPOS_END -->
