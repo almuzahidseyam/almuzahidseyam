@@ -22,6 +22,13 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+        with:
+          persist-credentials: false
+
+      - name: Validate streak fallback
+        run: python3 -m unittest discover -s tests -v
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -31,9 +38,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
       - name: Generate Streak Stats SVG
-        run: |
-          mkdir -p dist
-          curl -s --retry 3 --max-time 30 "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&background=00000000&fire=9333ea&ring=c084fc&currStreakLabel=a855f7&sideNums=a855f7&currStreakNum=9333ea&dates=c084fc&hide_border=true" -o dist/streak.svg
+        env:
+          PROFILE_REPOSITORY: ${{ github.repository }}
+        run: python3 scripts/fetch_streak.py
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
