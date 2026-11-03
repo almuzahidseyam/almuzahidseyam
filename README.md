@@ -4,7 +4,7 @@
 
 I build software systems and full-stack products, and research machine learning for imbalanced data. Currently pursuing an M.Sc. Engg. in ICT at **BUET**, with a background in Computer Science and Engineering from **PSTU**.
 
-[Portfolio](https://almuzahidseyam.tech/) &nbsp; / &nbsp; [Download CV](./assets/software-engineer-cv.pdf) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/almuzahid/) &nbsp; / &nbsp; [Email](mailto:almuzahid16@gmail.com)
+[Portfolio](https://almuzahidseyam.tech/) &nbsp; / &nbsp; [Download CV](./assets/software-engineer-cv.pdf) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/almuzahidseyam/) &nbsp; / &nbsp; [Email](mailto:almuzahid16@gmail.com)
 
 **3× ICPC regionalist** &nbsp; · &nbsp; **2,600+ problems solved** &nbsp; · &nbsp; **Published in IEEE Xplore**
 
