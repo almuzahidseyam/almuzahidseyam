@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" fill="none">
+  <title>Software engineering, applied AI and problem solving</title>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#211E2B"/>
+      <stop offset="1" stop-color="#19262C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="150" rx="12" fill="url(#wash)"/>
+  <path d="M40 52H76" stroke="#AE9BCF" stroke-width="3" stroke-linecap="round"/>
+  <text x="40" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="21" letter-spacing="2.5" fill="#D1C7E1">SOFTWARE / RESEARCH / PROBLEM SOLVING</text>
+  <g stroke="#665C7C" stroke-width="1.2">
+    <circle cx="1084" cy="75" r="48"/>
+    <ellipse cx="1084" cy="75" rx="22" ry="48" transform="rotate(45 1084 75)"/>
+    <ellipse cx="1084" cy="75" rx="22" ry="48" transform="rotate(-45 1084 75)"/>
+    <path d="M1018 75H1150M1084 9V141" opacity=".5"/>
+  </g>
+  <circle cx="1084" cy="75" r="4" fill="#AE9BCF"/>
+</svg>

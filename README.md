@@ -1,237 +1,143 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoZHA4czd1dWV0enh4dDE5MXdhZ3dvNmxieW05ZXdmODRsMWlqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Matrix Coding" width="100%" height="150" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
+  <img src="./assets/profile-banner-light.svg" alt="Software engineering · Applied AI · Problem solving" width="100%">
+</picture>
 
-<p align="center">
-    <a href="https://github.com/almuzahidseyam/almuzahidseyam"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="status"></a>
-    <a href="https://github.com/almuzahidseyam?tab=followers"><img src="https://img.shields.io/github/followers/almuzahidseyam?color=blue&logo=github&style=flat&v=2" alt="followers"></a>
-    <a href="https://github.com/almuzahidseyam?tab=repositories"><img src="https://img.shields.io/github/stars/almuzahidseyam?color=yellow&logo=github&style=flat&v=2" alt="stars"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=almuzahidseyam.almuzahidseyam&left_text=Profile%20Views&left_color=%23555555&right_color=%237c3aed" alt="Profile Views" />
-</p>
+# Muhammad Al-Muzahid
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20%F0%9F%91%8B%2C%20I%20am%20Muhammad%20Al-Muzahid;Software%20Engineer%20%7C%20AI%20%26%20ML%20Researcher;Competitive%20Programmer%20%28CodeChef%203%E2%98%85%29;Exploring%20Systems%20Design%20%26%20Deep%20Learning&font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000&color=7C3AED" alt="Typing SVG" />
-  </a>
-</p>
+**Software Engineer · AI & ML Researcher · Competitive Programmer**
 
-<p align="center">
-  <a href="https://github.com/almuzahidseyam" target="_blank"><img src="https://img.shields.io/badge/-Follow_Me_On_GitHub-2dba4e?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="15" height="1" /><a href="https://www.buymeacoffee.com/almuzahidseyam" target="_blank"><img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="15" height="1" /><a href="https://github.com/almuzahidseyam/almuzahidseyam/blob/main/assets/software-engineer-cv.pdf" target="_blank"><img src="https://img.shields.io/badge/Download%20Software%20Engineer%20CV-PDF-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Download" /></a>
-</p>
+I build software systems and full-stack products, and research machine learning for imbalanced data. Currently pursuing an M.Sc. Engg. in ICT at **BUET**, with a background in Computer Science and Engineering from **PSTU**.
 
----
+[Portfolio](https://almuzahidseyam.tech/) &nbsp; / &nbsp; [Download CV](./assets/software-engineer-cv.pdf) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/almuzahid/) &nbsp; / &nbsp; [Email](mailto:almuzahid16@gmail.com)
 
-## 👨‍💻 About Me
-<p><img width="28%" align="right" alt="Cherry Blossom Spinner" src="./assets/flower-spinner.svg"/></p>
+**3× ICPC regionalist** &nbsp; · &nbsp; **2,600+ problems solved** &nbsp; · &nbsp; **Published in IEEE Xplore**
 
-I am a Computer Science graduate from Patuakhali Science and Technology University and currently pursuing M.Sc. Engg. in Information and Communication Technology at Bangladesh University of Engineering and Technology.
+## Selected projects
 
-My core expertise lies in **Software Engineering, Systems Design, Applied Artificial Intelligence, and Competitive Programming**. I thrive on architecting scalable software systems, developing AI-driven solutions, and pushing the boundaries of machine learning research. 
+### [ProfEmail SaaS](https://github.com/almuzahidseyam/ProfEmail-SaaS)
+Turns researchers' CVs into tailored outreach emails for university professors.<br>
+<sub>Next.js · Tailwind CSS · SaaS</sub>
 
-- 🚀 Passionate about building high-performance backend systems and complete full-stack SaaS platforms.
-- 🏆 3-time ICPC Asia Dhaka Regionalist and NCPC 2023 Finalist.
-- 💡 Solved 2600+ algorithmic problems across various online judges.
-- 📚 Published researcher in IEEE Xplore with a focus on Deep Learning and Imbalanced Classification.
+### [BD_TSP](https://github.com/almuzahidseyam/BD_TSP)
+Solves logistics routes across 15 hubs in Bangladesh using Held–Karp dynamic programming, with interactive map visualizations.<br>
+<sub>C++17 · Python · Folium</sub>
 
----
+### [LiteBuster](https://github.com/almuzahidseyam/LiteBuster)
+A Manifest V3 Chrome extension for audio CAPTCHA solving, running a local acoustic model through ONNX and WebGPU.<br>
+<sub>PyTorch · ONNX · WebGPU · Chrome Extensions</sub>
 
-## 🛠️ Technical Skills & Stack
+[Explore all repositories →](https://github.com/almuzahidseyam?tab=repositories&sort=stargazers)
 
-<p>
-  <strong>Languages:</strong><br>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,java,php,dart" />
-</p>
-<p>
-  <strong>Frontend & Full-Stack:</strong><br>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,flutter,html,css" />
-</p>
-<p>
-  <strong>Backend, Databases & DevOps:</strong><br>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,redis,git,github,docker,linux" />
-</p>
-<p>
-  <strong>AI & Research:</strong><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,jupyter,latex" />
-</p>
+## Technical toolkit
 
----
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | C++ · C · Python · TypeScript · JavaScript |
+| **Web & backend** | React · Next.js · Tailwind CSS · Node.js · Express |
+| **Data & infrastructure** | PostgreSQL · MySQL · SQLite · Redis · Docker · Linux |
+| **AI & research** | PyTorch · TensorFlow · Jupyter · LaTeX |
 
-<details open>
-<summary><h2>🚀 Top Projects</h2></summary>
-<br>
+<details>
+<summary>Additional languages & tools</summary>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/almuzahidseyam/LiteBuster">
-        <img src="https://img.shields.io/badge/🛡️_LiteBuster-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="LiteBuster" />
-      </a>
-      <br><br>
-      A blazing-fast Manifest V3 Chrome Extension that automates CAPTCHA solving using a local PyTorch acoustic model deployed via ONNX WebGPU.
-      <br><br>
-      <img src="https://img.shields.io/badge/PyTorch-ffffff?style=flat-square&logo=pytorch&logoColor=7c3aed" /> 
-      <img src="https://img.shields.io/badge/WebGPU-ffffff?style=flat-square&logo=javascript&logoColor=7c3aed" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/almuzahidseyam/BD_TSP">
-        <img src="https://img.shields.io/badge/🗺️_BD__TSP-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="BD_TSP" />
-      </a>
-      <br><br>
-      A highly-optimized C++ DP (Held-Karp) solver for Real-Life Logistics routing across 15 major hubs in Bangladesh, visualized dynamically with Python Folium.
-      <br><br>
-      <img src="https://img.shields.io/badge/C++17-ffffff?style=flat-square&logo=c%2B%2B&logoColor=7c3aed" /> 
-      <img src="https://img.shields.io/badge/Folium-ffffff?style=flat-square&logo=python&logoColor=7c3aed" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/almuzahidseyam/ProfEmail-SaaS">
-        <img src="https://img.shields.io/badge/📧_ProfEmail_SaaS-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="ProfEmail SaaS" />
-      </a>
-      <br><br>
-      A modern SaaS web platform designed to help researchers parse their CVs and automatically generate highly tailored cold emails for university professors.
-      <br><br>
-      <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=next.js&logoColor=7c3aed" /> 
-      <img src="https://img.shields.io/badge/Tailwind-ffffff?style=flat-square&logo=tailwindcss&logoColor=7c3aed" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/almuzahidseyam?tab=repositories&sort=stargazers">
-        <img src="https://img.shields.io/badge/📂_View_All_Projects-ffffff?style=for-the-badge&logo=github&logoColor=7c3aed" alt="View All Projects" />
-      </a>
-      <br><br>
-      <i>Explore my other repositories, competitive programming solutions, algorithmic implementations, and open-source contributions on GitHub.</i>
-    </td>
-  </tr>
-</table>
+Java · PHP · Dart · Flutter · HTML · CSS · Git · GitHub
 
 </details>
 
----
+## Research
 
-## 🏆 Competitive Programming
+**[DASS: Density-Adaptive Synthetic Sampling for Improved Imbalanced Classification](https://doi.org/10.1109/STI64222.2024.10951098)**<br>
+Published in IEEE Xplore, 6th International Conference on Sustainable Technologies for Industry 5.0.<br>
+<sub>Machine learning · Computer vision · Synthetic sampling</sub>
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=brainsoft&bg_color=00000000&title_color=7c3aed&text_color=a855f7&icon_color=c084fc&hide_border=true" alt="Codeforces Stats" height="220" />
-  <img src="https://leetcard.jacoblin.cool/brainsoft?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" height="220" />
+**M.Sc. thesis — Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Classification**<br>
+<sub>Deep learning · Active learning · Attention mechanisms</sub>
+
+## Competitive programming
+
+- **ICPC Asia Dhaka Regionalist** — 2023, 2024, 2025
+- **NCPC Finalist** — 2023
+- **3rd place**, PSTU Independence Day Programming Contest — 2024
+- **National Undergraduate Mathematics Olympiad Awardee**
+
+[Codeforces](https://codeforces.com/profile/brainsoft) &nbsp; / &nbsp; [LeetCode](https://leetcode.com/u/brainsoft/)
+
+<details>
+<summary>Ratings & programming activity</summary>
+
+CodeChef: **3★ (1745)** · AtCoder: **456** · BeeCrowd: **Top 1% globally**<br>
+<sub>Recorded profile highlights; live ratings may change.</sub>
+
+<p>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=brainsoft&bg_color=00000000&title_color=8070b5&text_color=808080&icon_color=8070b5&hide_border=true" alt="Codeforces activity for brainsoft" width="400">
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-3_Star_(1745)-7c3aed?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Stats" />
-  <img src="https://img.shields.io/badge/AtCoder-Rating_456-7c3aed?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder Stats" />
-  <img src="https://img.shields.io/badge/BeeCrowd-Top_1%25_Global-7c3aed?style=for-the-badge&logo=codeforces&logoColor=white" alt="BeeCrowd Stats" />
-</p>
-
-**Achievements:**
-- ICPC Asia Dhaka Regionalist (2023, 2024, 2025)
-- NCPC Finalist (2023)
-- 3rd place, PSTU Independence Day Programming Contest (2024)
-- National Undergraduate Mathematics Olympiad Awardee
-
----
-
-<details open>
-<summary><h2>🔬 Research & Thesis</h2></summary>
-<br>
-
-> ### 📄 DASS: Density-Adaptive Synthetic Sampling for Improved Imbalanced Classification
-> *Published in IEEE Xplore at the 6th International Conference on Sustainable Technologies for Industry 5.0.*
-> - **DOI:** [10.1109/STI64222.2024.10951098](https://doi.org/10.1109/STI64222.2024.10951098)
-> - **Domain:** Machine Learning, Computer Vision, Synthetic Sampling.
-
-> ### 🎓 M.Sc. Thesis
-> *Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Classification.*
-> - **Domain:** Deep Learning, Active Learning, Attention Mechanisms.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/brainsoft?theme=dark&font=Source%20Sans%20Pro&ext=heatmap">
+  <img src="https://leetcard.jacoblin.cool/brainsoft?theme=light&font=Source%20Sans%20Pro&ext=heatmap" alt="LeetCode activity for brainsoft" width="400">
+</picture>
 
 </details>
 
----
+## Education
 
-## 🎓 Education
+**Bangladesh University of Engineering and Technology**<br>
+M.Sc. Engg. in Information and Communication Technology · May 2025 – Present
 
-**Bangladesh University of Engineering and Technology (BUET)**  
-M.Sc. Engg. in Information and Communication Technology | *May 2025 – Present*
+**Patuakhali Science and Technology University**<br>
+M.Sc. in Computer Science and Information Technology · Jan 2025 – Apr 2026<br>
+B.Sc. Engg. in Computer Science and Engineering · Jan 2019 – Dec 2024
 
-**Patuakhali Science and Technology University (PSTU)**  
-M.Sc. in Computer Science and Information Technology | *Jan 2025 – Apr 2026*  
-B.Sc. Engg. in Computer Science and Engineering | *Jan 2019 – Dec 2024*
+## More from my GitHub
 
----
+<details>
+<summary>Contribution activity & statistics</summary>
 
-## 📈 GitHub Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid animation" width="100%">
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg">
-    <img alt="almuzahidseyam's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/github-contribution-grid-snake.svg">
-  </picture>
+<p>
+  <img src="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/streak.svg" alt="GitHub contribution streak">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/almuzahidseyam/almuzahidseyam/output/streak.svg" alt="GitHub Streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almuzahidseyam&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almuzahidseyam&theme=github" alt="GitHub contribution summary" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almuzahidseyam&bg_color=ffffff&title_color=7c3aed&text_color=a855f7&icon_color=7c3aed&hide_border=true" alt="Profile Details" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almuzahidseyam&bg_color=ffffff&title_color=7c3aed&text_color=a855f7&icon_color=7c3aed&hide_border=true" alt="Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=almuzahidseyam&bg_color=ffffff&title_color=7c3aed&text_color=a855f7&icon_color=7c3aed&utcOffset=6&hide_border=true" alt="Productive Time" width="49%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almuzahidseyam&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almuzahidseyam&theme=github" alt="GitHub repository statistics" width="320">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=almuzahidseyam&theme=github_dark&utcOffset=6">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=almuzahidseyam&theme=github&utcOffset=6" alt="Commit activity by time of day, UTC+6" width="320">
+</picture>
 
----
+</details>
 
-## 📬 Connect With Me
+<details>
+<summary>Recently updated repositories</summary>
 
-<table align="center">
-  <tbody>
-    <tr>
-      <td style="text-align: center;">
-        <a href="https://github.com/almuzahidseyam" title="GitHub" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" title="GitHub">
-        </a>
-      </td>
-      <td style="text-align: center;">
-        <a href="https://www.linkedin.com/in/almuzahid/" title="LinkedIn" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn">
-        </a>
-      </td>
-      <td style="text-align: center;">
-        <a href="mailto:almuzahid16@gmail.com" title="Email" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email" title="Email">
-        </a>
-      </td>
-      <td style="text-align: center;">
-        <a href="https://www.facebook.com/muhammadalmuzahid/" title="Facebook" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" title="Facebook">
-        </a>
-      </td>
-      <td style="text-align: center;">
-        <a href="https://codeforces.com/profile/brainsoft" title="Codeforces" target="_blank">
-          <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces" title="Codeforces">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-<p align="center">
-  <i>Building, learning, solving, and improving one step at a time.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffffff,0:7c3aed&height=95&section=footer" />
-</p>
-
-## ?? Recently Updated Projects
 <!-- LATEST_REPOS_START -->
-| ?? Project | ? Stars | ?? Last Updated |
-|:-----------|:---------|:----------------|
-| [almuzahidseyam.github.io](https://github.com/almuzahidseyam/almuzahidseyam.github.io) | 0 ? | Oct 28, 2026 |
-| [lumaweave](https://github.com/almuzahidseyam/lumaweave) | 0 ? | Oct 24, 2026 |
-| [bartalan](https://github.com/almuzahidseyam/bartalan) | 0 ? | Oct 24, 2026 |
-| [profemail-saas](https://github.com/almuzahidseyam/profemail-saas) | 0 ? | Oct 23, 2026 |
-| [fieldwork-commerce](https://github.com/almuzahidseyam/fieldwork-commerce) | 0 ? | Oct 17, 2026 |
+| Project | Stars | Last updated |
+| :--- | ---: | :--- |
+| [almuzahidseyam.github.io](https://github.com/almuzahidseyam/almuzahidseyam.github.io) | 0 | Oct 28, 2026 |
+| [lumaweave](https://github.com/almuzahidseyam/lumaweave) | 0 | Oct 24, 2026 |
+| [bartalan](https://github.com/almuzahidseyam/bartalan) | 0 | Oct 24, 2026 |
+| [profemail-saas](https://github.com/almuzahidseyam/profemail-saas) | 0 | Oct 23, 2026 |
+| [fieldwork-commerce](https://github.com/almuzahidseyam/fieldwork-commerce) | 0 | Oct 17, 2026 |
 <!-- LATEST_REPOS_END -->
+
+</details>
+
+---
+
+[Get in touch](mailto:almuzahid16@gmail.com) &nbsp; · &nbsp; [Facebook](https://www.facebook.com/muhammadalmuzahid/) &nbsp; · &nbsp; [Support my work](https://www.buymeacoffee.com/almuzahidseyam)
+
+<p align="center">
+  <img src="./assets/flower-spinner.svg" alt="Lavender cherry blossom" width="48" height="48"><br>
+  <sub>Building, learning, solving — one step at a time.</sub>
+</p>

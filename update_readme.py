@@ -15,8 +15,8 @@ def get_latest_repos():
         recent_repos = [r for r in repos if not r['fork'] and r['name'] != USERNAME][:5]
         
         markdown = "<!-- LATEST_REPOS_START -->\n"
-        markdown += "| ?? Project | ? Stars | ?? Last Updated |\n"
-        markdown += "|:-----------|:---------|:----------------|\n"
+        markdown += "| Project | Stars | Last updated |\n"
+        markdown += "| :--- | ---: | :--- |\n"
         
         for repo in recent_repos:
             name = repo['name']
@@ -27,7 +27,7 @@ def get_latest_repos():
             updated_at = datetime.strptime(repo['updated_at'], "%Y-%m-%dT%H:%M:%SZ")
             date_str = updated_at.strftime("%b %d, %Y")
             
-            markdown += f"| [{name}]({url}) | {stars} ? | {date_str} |\n"
+            markdown += f"| [{name}]({url}) | {stars} | {date_str} |\n"
             
         markdown += "<!-- LATEST_REPOS_END -->"
         return markdown
@@ -50,7 +50,7 @@ def update_readme():
         updated_content = re.sub(pattern, repos_markdown, readme_content, flags=re.DOTALL)
     else:
         # If tags don't exist, append to the end of the file
-        updated_content = readme_content + "\n\n## ?? Recently Updated Projects\n" + repos_markdown + "\n"
+        updated_content = readme_content + "\n\n## Recently updated repositories\n" + repos_markdown + "\n"
 
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(updated_content)
