@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
-  <img src="./assets/profile-banner-light.svg" alt="Software engineering · Applied AI · Problem solving" width="100%">
-</picture>
-
 # Muhammad Al-Muzahid
 
 **Software Engineer · AI & ML Researcher · Competitive Programmer**
