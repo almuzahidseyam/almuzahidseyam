@@ -7,7 +7,6 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="150" rx="12" fill="url(#wash)"/>
-  <path d="M40 52H76" stroke="#8674A8" stroke-width="3" stroke-linecap="round"/>
   <text x="40" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="21" letter-spacing="2.5" fill="#514663">SOFTWARE / RESEARCH / PROBLEM SOLVING</text>
   <g stroke="#B9B0CA" stroke-width="1.2">
     <circle cx="1084" cy="75" r="48"/>
