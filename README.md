@@ -119,11 +119,11 @@ B.Sc. Engg. in Computer Science and Engineering · Jan 2019 – Dec 2024
 <!-- LATEST_REPOS_START -->
 | Project | Stars | Last updated |
 | :--- | ---: | :--- |
-| [almuzahidseyam.github.io](https://github.com/almuzahidseyam/almuzahidseyam.github.io) | 0 | Oct 28, 2026 |
-| [lumaweave](https://github.com/almuzahidseyam/lumaweave) | 0 | Oct 24, 2026 |
-| [bartalan](https://github.com/almuzahidseyam/bartalan) | 0 | Oct 24, 2026 |
-| [profemail-saas](https://github.com/almuzahidseyam/profemail-saas) | 0 | Oct 23, 2026 |
-| [fieldwork-commerce](https://github.com/almuzahidseyam/fieldwork-commerce) | 0 | Oct 17, 2026 |
+| [cf-practice-ladder](https://github.com/almuzahidseyam/cf-practice-ladder) | 1 | Nov 04, 2026 |
+| [profemail-saas](https://github.com/almuzahidseyam/profemail-saas) | 0 | Nov 04, 2026 |
+| [fieldwork-commerce](https://github.com/almuzahidseyam/fieldwork-commerce) | 0 | Nov 04, 2026 |
+| [diffdrive_odom_demo](https://github.com/almuzahidseyam/diffdrive_odom_demo) | 0 | Nov 04, 2026 |
+| [nokia-3310-snake](https://github.com/almuzahidseyam/nokia-3310-snake) | 1 | Nov 04, 2026 |
 <!-- LATEST_REPOS_END -->
 
 </details>
