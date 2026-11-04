@@ -11,11 +11,11 @@ I build software systems and full-stack products, and research machine learning 
 ## Selected projects
 
 ### [ProfEmail SaaS](https://github.com/almuzahidseyam/ProfEmail-SaaS)
-Turns researchers' CVs into tailored outreach emails for university professors.<br>
+A local-first Resume Lab for reviewing CVs, with optional AI-assisted outreach drafts for university professors.<br>
 <sub>Next.js · Tailwind CSS · SaaS</sub>
 
 ### [BD_TSP](https://github.com/almuzahidseyam/BD_TSP)
-Solves logistics routes across 15 hubs in Bangladesh using Held–Karp dynamic programming, with interactive map visualizations.<br>
+Exact Held–Karp routes for 15 hubs and heuristic routes across 64 districts, using road distances and interactive maps.<br>
 <sub>C++17 · Python · Folium</sub>
 
 ### [LiteBuster](https://github.com/almuzahidseyam/LiteBuster)
