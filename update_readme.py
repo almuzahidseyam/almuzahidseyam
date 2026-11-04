@@ -7,7 +7,7 @@ API_URL = f"https://api.github.com/users/{USERNAME}/repos?sort=updated&direction
 
 def get_latest_repos():
     try:
-        response = requests.get(API_URL)
+        response = requests.get(API_URL, timeout=20)
         response.raise_for_status()
         repos = response.json()
         
@@ -15,19 +15,18 @@ def get_latest_repos():
         recent_repos = [r for r in repos if not r['fork'] and r['name'] != USERNAME][:5]
         
         markdown = "<!-- LATEST_REPOS_START -->\n"
-        markdown += "| Project | Stars | Last updated |\n"
-        markdown += "| :--- | ---: | :--- |\n"
+        markdown += "| Project | Last updated |\n"
+        markdown += "| :--- | :--- |\n"
         
         for repo in recent_repos:
             name = repo['name']
             url = repo['html_url']
-            stars = repo['stargazers_count']
             
             # Format date beautifully
             updated_at = datetime.strptime(repo['updated_at'], "%Y-%m-%dT%H:%M:%SZ")
             date_str = updated_at.strftime("%b %d, %Y")
             
-            markdown += f"| [{name}]({url}) | {stars} | {date_str} |\n"
+            markdown += f"| [{name}]({url}) | {date_str} |\n"
             
         markdown += "<!-- LATEST_REPOS_END -->"
         return markdown
