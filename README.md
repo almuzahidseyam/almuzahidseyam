@@ -98,11 +98,11 @@ C · Java · PHP · Dart · Flutter · HTML · CSS · Tailwind CSS · Express ·
 <!-- LATEST_REPOS_START -->
 | Project | Last updated |
 | :--- | :--- |
+| [AI-Bridge](https://github.com/almuzahidseyam/AI-Bridge) | Nov 11, 2026 |
+| [nokia-3310-snake](https://github.com/almuzahidseyam/nokia-3310-snake) | Nov 11, 2026 |
 | [CompetitiveProgrammingRepository](https://github.com/almuzahidseyam/CompetitiveProgrammingRepository) | Nov 04, 2026 |
 | [almuzahidseyam.github.io](https://github.com/almuzahidseyam/almuzahidseyam.github.io) | Nov 04, 2026 |
 | [cf-practice-ladder](https://github.com/almuzahidseyam/cf-practice-ladder) | Nov 04, 2026 |
-| [profemail-saas](https://github.com/almuzahidseyam/profemail-saas) | Nov 04, 2026 |
-| [fieldwork-commerce](https://github.com/almuzahidseyam/fieldwork-commerce) | Nov 04, 2026 |
 <!-- LATEST_REPOS_END -->
 
 </details>
